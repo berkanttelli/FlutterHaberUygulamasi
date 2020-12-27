@@ -44,7 +44,6 @@ class _SignUpScreenState extends State<SignUpScreen> {
           child: Container(
         decoration: BoxDecoration(
             gradient: LinearGradient(
-                // bir sey oldu ve bozuk gorunuyor 1.20 den 1.22.5 e guncelleyince oldu.(Ancak program calisiyor.)
                 colors: [Colors.grey, Colors.grey[300]],
                 begin: FractionalOffset(0.5, 1))),
         child: Column(
