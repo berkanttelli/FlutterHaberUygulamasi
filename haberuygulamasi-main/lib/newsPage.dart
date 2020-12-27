@@ -231,11 +231,3 @@ class Popupnames {
   static const List<String> choice = <String>[setting, signout];
 }
 
-// RaisedButton(
-//          onPressed: () => {
-//            signOut(),
-//           Navigator.of(context).pushReplacement(
-//                MaterialPageRoute(builder: (context) => LoginRegisterPage()))
-//          },
-//          child: Text("Basardin Kral"),
-//        )
