@@ -169,15 +169,4 @@ class _LoginRegisterPageState extends State<LoginRegisterPage> {
   }
 }
 
-//signIn(email.trim(), password, context)
-//                                      .whenComplete(() async {
-//                                // ignore: await_only_futures
-//                                User user =
-//                                    await FirebaseAuth.instance.currentUser;
-//
-//                                Navigator.of(context)
-//                                    .pushReplacement(MaterialPageRoute(
-//                                        builder: (context) => NewsPage(
-//                                              uid: user.uid,
-//                                           )));
-//                              })
+
